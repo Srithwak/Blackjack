@@ -1,7 +1,0 @@
-﻿  Blackjack.cpp
-C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\Blackjack\Blackjack.cpp(74,23): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
-C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\Blackjack\Blackjack.cpp(74,23): warning C4244:         with
-C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\Blackjack\Blackjack.cpp(74,23): warning C4244:         [
-C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\Blackjack\Blackjack.cpp(74,23): warning C4244:             _Rep=std::chrono::system_clock::rep
-C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\Blackjack\Blackjack.cpp(74,23): warning C4244:         ]
-  Blackjack.vcxproj -> C:\Users\srith\Desktop\External Code\Blackjack\Blackjack\x64\Debug\Blackjack.exe
